@@ -1,1 +1,1 @@
-# contract-all
+# voting contract
